@@ -1,0 +1,5 @@
+﻿  Back-N-Go__Protocol.cpp
+c:\users\legion\onedrive\documents\visual studio 2015\projects\back-n-go__protocol\back-n-go__protocol\back-n-go__protocol.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\legion\onedrive\documents\visual studio 2015\projects\back-n-go__protocol\back-n-go__protocol\back-n-go__protocol.cpp(84): warning C4018: '<=': signed/unsigned mismatch
+  Back-N-Go__Protocol.vcxproj -> C:\Users\LEGION\OneDrive\Documents\Visual Studio 2015\Projects\Back-N-Go__Protocol\Debug\Back-N-Go__Protocol.exe
+  Back-N-Go__Protocol.vcxproj -> C:\Users\LEGION\OneDrive\Documents\Visual Studio 2015\Projects\Back-N-Go__Protocol\Debug\Back-N-Go__Protocol.pdb (Full PDB)
