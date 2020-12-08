@@ -38,6 +38,32 @@ int main()
     return 0;
 }
 
+// 2nd TestCase
+/*
+int main()
+	{
+	string ToBeSent = "NetWork";
+	for (int i = 0; i < MAX_SEQ; i++)
+	{
+	Sender(Network_Layer_Ready, ToBeSent[i]);
+	}
+	for (int i = MAX_SEQ; i < ToBeSent.length(); i++)
+	{
+	Receiver(Frame_Arrival);
+	Sender(Frame_Arrival);
+	Sender(Network_Layer_Ready, ToBeSent[i]);
+	}
+	for (int i = 0 ;  i < MAX_SEQ ; i++)
+	{
+	Receiver(Frame_Arrival);
+	Sender(Frame_Arrival);
+	}
+	return 0;
+}
+
+
+
+
 
 // Sender can handle 3 Events 
 //	  1- Network Layer Ready to send    (Needs Data)
